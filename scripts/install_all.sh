@@ -7,4 +7,5 @@ mpv.sh
 rmbeep.sh
 trans.sh
 pip.sh
-
+dectools.sh
+cmake.sh
