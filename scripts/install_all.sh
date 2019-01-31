@@ -9,3 +9,4 @@ trans.sh
 pip.sh
 dectools.sh
 cmake.sh
+ffmpeg.sh
