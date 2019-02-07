@@ -10,3 +10,5 @@ pip.sh
 dectools.sh
 cmake.sh
 ffmpeg.sh
+mediainfo.sh
+handbrake.sh
