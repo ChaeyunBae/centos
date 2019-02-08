@@ -12,3 +12,4 @@ cmake.sh
 ffmpeg.sh
 mediainfo.sh
 handbrake.sh
+ocio_config.sh
