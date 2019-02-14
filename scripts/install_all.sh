@@ -13,3 +13,4 @@ ffmpeg.sh
 mediainfo.sh
 handbrake.sh
 ocio_config.sh
+nohotcorner.sh
