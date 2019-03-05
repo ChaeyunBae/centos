@@ -2,7 +2,7 @@
 # 이 스크립트는 CentOS7.6 에서 소프트웨어를 설치한다.
 # root로 실행후 user로 다시 한번 실행이 필요하다.
 
-if [[ $EUID -e 0 ]]; then
+if [[ $EUID -eq 0 ]]; then
 ./root/nvidia.sh
 ./root/utility.sh
 ./root/code.sh
